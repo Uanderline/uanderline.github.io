@@ -194,6 +194,22 @@ text-align: center;
 
 }
 
+@media(max-width: 375px){
+    .home-content{
+    font-size: 14px;
+    }
+
+    .img{
+      
+        width: 100px;
+        height: 100px;
+
+    }
+    .max-width-section{
+        margin-top: 50px;
+    }
+}
+
 
 
 @media(max-width: 414px){
@@ -244,7 +260,7 @@ text-align: center;
 
 @media(max-width: 768px){
     .max-width-section{
-        font-display: flex;
+        display: flex;
         flex-direction: column-reverse;
         justify-content: center;
         margin-top: 5px;
