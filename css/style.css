@@ -266,9 +266,10 @@ text-align: center;
         font-size: 16px;
     }
 
-    .img{
-        margin-top: 50px;
-    }
+   .text-1{
+    font-size: 12px;
+   }
+
 
     .home-content{
         margin-top: 10px;
@@ -285,7 +286,7 @@ text-align: center;
     }
 
     .sessao-home{
-        padding-top: 100px;
+        padding-top: 80px;
     }
 
 }
