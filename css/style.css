@@ -195,6 +195,12 @@ text-align: center;
     margin-top: 20px;
 }
 
+.navbar .logo a {
+    
+    font-size: 25px;
+    font-weight: 300;
+}
+
 }
 
 @media(max-width: 375px){
@@ -211,6 +217,12 @@ text-align: center;
     }
     .max-width-section{
         margin-top: 50px;
+    }
+
+    .navbar .logo a {
+    
+        font-size: 25px;
+        font-weight: 300;
     }
 }
 
@@ -260,6 +272,12 @@ text-align: center;
     .home-content{
         margin-top: 10px;
     }
+
+    .navbar .logo a {
+    
+        font-size: 25px;
+        font-weight: 300;
+    }
 }
 
 @media(max-width: 768px){
@@ -269,5 +287,11 @@ text-align: center;
         justify-content: center;
         margin-top: 5px;
         padding: 20px;
+    }
+
+    .navbar .logo a {
+    
+        font-size: 25px;
+        font-weight: 300;
     }
 }
