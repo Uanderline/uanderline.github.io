@@ -13,11 +13,15 @@
     padding: 0 80px;
     margin: 0 auto;
 }
+.header{
+    height: 60px; 
+    position: fixed; 
+    z-index: 1;
+    width: 100%;
+}
 
 .navbar{
-      position: fixed; 
-      height: 80px; 
-      z-index: 1;
+     height: 60px;
       width: 100%;
       padding: 15px 0;
       background: #4CCA5A;
@@ -57,7 +61,7 @@
    align-items: center;
    flex-direction: column-reverse;
    justify-content: center;
-   margin-top: 70px;
+   
    background: #000;
    height: 100vh;
    padding: 20px;
@@ -231,8 +235,6 @@ text-align: center;
 @media(max-width: 400px){
 
     .navbar{
-        position: fixed; 
-        z-index: 1;
         display: flex;
         justify-content: space-between;
         height: 160px;
