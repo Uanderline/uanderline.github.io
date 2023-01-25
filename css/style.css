@@ -239,7 +239,7 @@ text-align: center;
         flex-direction: column;
         align-items: center;
         justify-content: space-between;
-        height: 150px;
+        height: 130px;
         
 
     }
@@ -286,7 +286,7 @@ text-align: center;
     }
 
     .sessao-home{
-        padding-top: 80px;
+        padding-top: 60px;
     }
 
 }
