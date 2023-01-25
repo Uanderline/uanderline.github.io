@@ -197,7 +197,7 @@ text-align: center;
     height: 150px;
 }
 .div-img{
-    margin-top: 20px;
+    
 }
 
 .navbar .logo a {
@@ -221,10 +221,10 @@ text-align: center;
         height: 100px;
     }
     .div-img{
-        margin-top: 20px;
+        
     }
     .max-width-section{
-        margin-top: 50px;
+        
     }
 
     .navbar .logo a {
@@ -245,7 +245,7 @@ text-align: center;
     .navbar{
         display: flex;
         justify-content: space-between;
-        height: 60px;
+        
 
     }
  .max-width{
@@ -272,7 +272,7 @@ text-align: center;
         flex-direction: column-reverse;
         justify-content: center;
         align-items: center;
-        margin-top: 50px;
+        
         font-size: 16px;
     }
 
@@ -301,7 +301,7 @@ text-align: center;
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
-        padding: 20px;
+        
     }
     .navbar .logo a {    
         font-size: 25px;
