@@ -205,6 +205,9 @@ text-align: center;
     font-size: 25px;
     font-weight: 300;
 }
+.header{
+    height: 100px;
+}
 
 }
 
@@ -228,6 +231,10 @@ text-align: center;
     
         font-size: 25px;
         font-weight: 300;
+    }
+
+    .header{
+        height: 100px;
     }
 }
 
@@ -282,6 +289,11 @@ text-align: center;
         font-size: 25px;
         
     }
+
+    .header{
+        height: 100px;
+    }
+
 }
 
 @media(max-width: 768px){
@@ -289,10 +301,8 @@ text-align: center;
         display: flex;
         flex-direction: column-reverse;
         justify-content: center;
-        margin-top: 5px;
         padding: 20px;
     }
-
     .navbar .logo a {    
         font-size: 25px;
         
