@@ -228,7 +228,7 @@ text-align: center;
 
 
 
-@media(max-width: 414px){
+@media(max-width: 400px){
 
     .navbar{
         position: fixed; 
@@ -247,7 +247,7 @@ text-align: center;
 
     .navbar .menu li a{
         margin: 10px;
-        font-size: 25px;
+        
     }
    
     .menu{
@@ -276,7 +276,7 @@ text-align: center;
     .navbar .logo a {
     
         font-size: 25px;
-        font-weight: 300;
+        
     }
 }
 
@@ -289,9 +289,8 @@ text-align: center;
         padding: 20px;
     }
 
-    .navbar .logo a {
-    
+    .navbar .logo a {    
         font-size: 25px;
-        font-weight: 300;
+        
     }
 }
