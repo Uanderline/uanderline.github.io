@@ -71,7 +71,6 @@
 /*..Home inicio ..**/
 
 .max-width-section{
-   position: absolute;
    display: flex;
    align-items: center;
    flex-direction: column-reverse;
